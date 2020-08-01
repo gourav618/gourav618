@@ -1,5 +1,5 @@
 <p align="center">
-<h1><strong>Hi / こんにちは</strong></h1>
+<h1><strong>नमस्ते / Hi / こんにちは</strong></h1>
 </p>
 
 <a href="https://twitter.com/sgourav533">
