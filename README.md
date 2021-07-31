@@ -3,7 +3,7 @@
 </p>
 
 - 🔭 I’m currently working on Backend Developement.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Machine Learning, Algorithms etc.
 - 👯 I’m looking to collaborate on any Interesting project.
 - 📫 How to reach me: atgouravsharma@gmail.com.
 
